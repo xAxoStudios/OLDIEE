@@ -1,0 +1,1386 @@
+{
+  "twitch": {
+    "user": "danfisher_dev"
+  },
+  "header": {
+    "nav": [
+      {
+        "title": "Home",
+        "url": "_str1-index"
+      },
+      {
+        "title": "Streams",
+        "url": "_str1-streams-4"
+      },
+      {
+        "title": "Blog",
+        "url": "_str1-blog",
+        "subitems": [
+          {
+            "title": "Blog Feed",
+            "url": "_str1-blog"
+          },
+          {
+            "title": "Blog Post V1",
+            "url": "_str1-single"
+          },
+          {
+            "title": "Blog Post V2",
+            "url": "_str1-single-2",
+            "subitems": [
+              {
+                "title": "Another Item",
+                "url": "_str1-single"
+              },
+              {
+                "title": "Other Level Item",
+                "url": "_str1-single-2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "About",
+        "url": "_str1-about"
+      },
+      {
+        "title": "Sponsors",
+        "url": "_str1-sponsors"
+      },
+      {
+        "title": "Events",
+        "url": "_str1-events",
+        "subitems": [
+          {
+            "title": "Single Event",
+            "url": "_str1-single-event"
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "url": "_str1-contact"
+      },
+      {
+        "title": "Shop",
+        "url": "_str1-shop",
+        "subitems": [
+          {
+            "title": "Shop Page",
+            "url": "_str1-shop"
+          },
+          {
+            "title": "Single Product",
+            "url": "_str1-single-product"
+          },
+          {
+            "title": "Cart",
+            "url": "_str1-cart"
+          },
+          {
+            "title": "Checkout",
+            "url": "_str1-checkout"
+          },
+          {
+            "title": "Login/Register",
+            "id": "login-register",
+            "is-modal": true
+          },
+          {
+            "title": "Account",
+            "url": "_str1-account"
+          }
+        ]
+      }
+    ]
+  },
+  "account": [
+    {
+      "title": "Personal Info",
+      "url": "_str1-account-info"
+    },
+    {
+      "title": "Billing Details",
+      "url": "_str1-account-billing"
+    },
+    {
+      "title": "Shipping Details",
+      "url": "_str1-account-shipping"
+    },
+    {
+      "title": "Orders",
+      "url": "_str1-account-orders"
+    },
+    {
+      "title": "Logout",
+      "url": "#"
+    }
+  ],
+  "about": {
+    "hardware": [
+      {
+        "icon": "gamer-mouse",
+        "title": "Raptor Anywhere RM-2569",
+        "brand": "Raxor",
+        "link": "#"
+      },
+      {
+        "icon": "headset",
+        "title": "Soundmaster X5",
+        "brand": "Sorny",
+        "link": "#"
+      },
+      {
+        "icon": "keyboard",
+        "title": "Carbon Z81 RGB",
+        "brand": "Buccaneer",
+        "link": "#"
+      },
+      {
+        "icon": "screen",
+        "title": "GLX 019 Full 4K",
+        "brand": "Sangsteen",
+        "link": "#"
+      },
+      {
+        "icon": "gaming-chair",
+        "title": "DaBottoms Deluxe 5",
+        "brand": "Swordfish",
+        "link": "#"
+      },
+      {
+        "icon": "mousepad-mouse",
+        "title": "Iron Series GQ+",
+        "brand": "GQ Solutions",
+        "link": "#"
+      }
+    ],
+    "faq": [
+      {
+        "title": "How long have you been a streamer?",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et lore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "title": "Do you have a mailbox where to send stuff?",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et lore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "active": true
+      },
+      {
+        "title": "Where did you get your stream design pack?",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et lore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "title": "Do you take stream requests?",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et lore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      }
+    ],
+    "details": [
+      {
+        "label": "From",
+        "value": "Los Angeles, USA"
+      },
+      {
+        "label": "Platforms",
+        "value": "PC, PS4, Atari"
+      },
+      {
+        "label": "Content",
+        "value": "All Ages"
+      },
+      {
+        "label": "Favourite Game",
+        "value": "Witch Hunters"
+      },
+      {
+        "label": "eSports Team",
+        "value": "<a href=\"#\">Necromancers</a>"
+      },
+      {
+        "icon": "playstation",
+        "value": "NekoMaGiX_PS"
+      },
+      {
+        "icon": "xbox",
+        "value": "NkMaGiX-08"
+      }
+    ]
+  },
+  "events": {
+    "event": {
+      "img": "assets/img/str1/samples/post-img-1-700x340.jpg",
+      "title": "LiveStream from TwitchCon 2023!",
+      "url": "_str1-single-event.html",
+      "description": "<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p><p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>",
+      "details": [
+        {
+          "label": "Date",
+          "value": "Friday April 8th, 2023"
+        },
+        {
+          "label": "Start",
+          "value": "9:00AM PCT"
+        },
+        {
+          "label": "End",
+          "value": "11:00PM PCT"
+        },
+        {
+          "label": "Organizer",
+          "value": "Twitch"
+        },
+        {
+          "label": "Cost",
+          "value": "$20 USD"
+        },
+        {
+          "label": "Website",
+          "value": "<a href=\"http://www.twitchcon.com\">www.twitchcon.com</a>"
+        },
+        {
+          "label": "Address",
+          "value": "Fake W Street 123"
+        },
+        {
+          "label": "State/Country",
+          "value": "New York, USA"
+        }
+      ],
+      "details-ext": [
+        {
+          "icon": "pin",
+          "value": "San Diego, CA",
+          "label": "Where"
+        },
+        {
+          "icon": "clock",
+          "value": "9:30PM",
+          "label": "Starts"
+        },
+        {
+          "icon": "clock",
+          "value": "11:00PM",
+          "label": "Ends"
+        },
+        {
+          "icon": "ticket",
+          "value": "U$D 20",
+          "label": "Price"
+        }
+      ],
+      "venue": {
+        "title": {
+          "value": "Boiling Rock Arena",
+          "label": "Venue"
+        },
+        "address": {
+          "label": "Address",
+          "value": [
+            "Fake Street 1234, San Diego",
+            "California, United States"
+          ]
+        },
+        "website": {
+          "label": "Website",
+          "value": {
+            "url": "https://www.borockarena.com",
+            "title": "www.borockarena.com"
+          }
+        }
+      }
+    },
+    "next": [
+      {
+        "title": "LiveStream from TwitchCon 2023!",
+        "url": "_str1-single-event.html",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "date": {
+          "month": "Apr",
+          "day": "08",
+          "year": "2023"
+        },
+        "details": [
+          {
+            "icon": "pin",
+            "value": "NY, USA"
+          },
+          {
+            "icon": "clock",
+            "value": "9AM PCT"
+          },
+          {
+            "icon": "credit-card",
+            "value": "$20"
+          }
+        ]
+      },
+      {
+        "title": "Ronny da Hedgehog Speedrun",
+        "url": "_str1-single-event.html",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "date": {
+          "month": "Apr",
+          "day": "24",
+          "year": "2023"
+        },
+        "details": [
+          {
+            "icon": "pin",
+            "value": "Twitch"
+          },
+          {
+            "icon": "clock",
+            "value": "10PM PCT"
+          },
+          {
+            "icon": "credit-card",
+            "value": "Free"
+          }
+        ]
+      },
+      {
+        "title": "Playing LIVE on PAX New Zealand",
+        "url": "_str1-single-event.html",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "date": {
+          "month": "May",
+          "day": "19",
+          "year": "2023"
+        },
+        "details": [
+          {
+            "icon": "pin",
+            "value": "AU, NZE"
+          },
+          {
+            "icon": "clock",
+            "value": "3PM PCT"
+          },
+          {
+            "icon": "credit-card",
+            "value": "$17"
+          }
+        ]
+      },
+      {
+        "title": "Ronny da Hedgehog Speedrun",
+        "url": "_str1-single-event.html",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "date": {
+          "month": "Jul",
+          "day": "10",
+          "year": "2023"
+        },
+        "details": [
+          {
+            "icon": "pin",
+            "value": "Twitch"
+          },
+          {
+            "icon": "clock",
+            "value": "10PM PCT"
+          },
+          {
+            "icon": "credit-card",
+            "value": "Free"
+          }
+        ]
+      }
+    ],
+    "past": [
+      {
+        "title": "Come see me at StreamCon 2022",
+        "url": "_str1-single-event.html",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "status": "past",
+        "date": {
+          "month": "Dec",
+          "day": "26",
+          "year": "2022"
+        },
+        "details": [
+          {
+            "icon": "pin",
+            "value": "AU, USA"
+          },
+          {
+            "icon": "clock",
+            "value": "10AM PCT"
+          },
+          {
+            "icon": "credit-card",
+            "value": "$18"
+          }
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "feed": [
+      {
+        "title": "Come and Meet me at this year’s TwitchCon!",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-1-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "March 18th, 2022"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      },
+      {
+        "title": "Witch Hunters Deluxe Pack Unboxing",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-2-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "March 6th, 2022"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      },
+      {
+        "title": "I chatted with Rick Dunnet from Goddess of War",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-3-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "February 20th, 2022"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      },
+      {
+        "title": "Retro Arcade Madness with Jenny_Noire",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-4-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "February 18th, 2022"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      },
+      {
+        "title": "Old Super Robo Bross II is getting a remake!",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-5-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "February 13th, 2022"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      },
+      {
+        "title": "[Early Access] Check the new Fire Witch DLC!",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-6-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "February 7th, 2022"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      },
+      {
+        "title": "I will be at GameCon 2019 with GameHuntress ",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-7-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "January 31th, 2022"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      },
+      {
+        "title": "THANKS EVERYONE!!! The charity was a success!!",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-8-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "January 25th, 2022"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      },
+      {
+        "title": "a-Rex Legends Christmas Charity Special",
+        "img": {
+          "md": "assets/img/str1/samples/post-img-9-370x240.jpg"
+        },
+        "url": "_str1-single.html",
+        "meta": {
+          "date": "December 19th, 2021"
+        },
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+      }
+    ],
+    "pagination": [
+      {
+        "label": "1",
+        "link": "#",
+        "active": true
+      },
+      {
+        "label": "2",
+        "link": "#"
+      },
+      {
+        "label": "3",
+        "link": "#"
+      },
+      {
+        "label": "4",
+        "link": "#"
+      }
+    ],
+    "post": {
+      "author": {
+        "name": "Jack Master",
+        "info": "Post Author",
+        "avatar": "assets/img/samples/user-1-80x80.jpg",
+        "social": [
+          {
+            "label": "Facebook",
+            "url": "#",
+            "icon": "facebook"
+          },
+          {
+            "label": "Twitter",
+            "url": "#",
+            "icon": "twitter"
+          },
+          {
+            "label": "Instagram",
+            "url": "#",
+            "icon": "instagram"
+          },
+          {
+            "label": "Youtube",
+            "url": "#",
+            "icon": "youtube"
+          }
+        ],
+        "details": "I started the unboxing videos in 2012 and the channel kept growing bigger and bigger since. Hope you like all my videos!"
+      },
+      "comments": [
+        {
+          "user": {
+            "name": "Mark Stark",
+            "date": "5 minutes ago",
+            "avatar": "assets/img/str1/samples/user-2-60x60.jpg"
+          },
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim.",
+          "like": 2
+        },
+        {
+          "user": {
+            "name": "Marina Valentine",
+            "date": "23 minutes ago",
+            "avatar": "assets/img/str1/samples/user-3-60x60.jpg"
+          },
+          "comment": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam",
+          "like": 5,
+          "children": [
+            {
+              "user": {
+                "name": "Nicholas Grissom",
+                "date": "11 minutes ago",
+                "avatar": "assets/img/str1/samples/user-4-60x60.jpg"
+              },
+              "comment": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias.",
+              "like": 0
+            }
+          ]
+        },
+        {
+          "user": {
+            "name": "Peter Morales",
+            "date": "5 minutes ago",
+            "avatar": "assets/img/str1/samples/user-5-60x60.jpg"
+          },
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim.",
+          "like": 1
+        }
+      ]
+    }
+  },
+  "channel": {
+    "layout": [
+      {
+        "slug": "_str1-streams-4",
+        "icon": "grid-4"
+      },
+      {
+        "slug": "_str1-streams-3",
+        "icon": "grid-3"
+      }
+    ],
+    "games": [
+      {
+        "label": "a-Rex Legends",
+        "slug": "a-rex-legends",
+        "poster": {
+          "sm": "assets/img/str1/samples/game-1-40x60.jpg",
+          "md": "assets/img/str1/samples/game-1-170x220.jpg"
+        },
+        "count": 35
+      },
+      {
+        "label": "Xenowatch",
+        "slug": "xenowatch",
+        "poster": {
+          "sm": "assets/img/str1/samples/game-2-40x60.jpg",
+          "md": "assets/img/str1/samples/game-2-170x220.jpg"
+        },
+        "count": 24
+      },
+      {
+        "label": "Witch Hunters",
+        "slug": "witch-hunters",
+        "poster": {
+          "sm": "assets/img/str1/samples/game-3-40x60.jpg",
+          "md": "assets/img/str1/samples/game-3-170x220.jpg"
+        },
+        "count": 20
+      },
+      {
+        "label": "Super Robo Bross II",
+        "slug": "super-robo-bross",
+        "poster": {
+          "sm": "assets/img/str1/samples/game-4-40x60.jpg",
+          "md": "assets/img/str1/samples/game-4-170x220.jpg"
+        },
+        "count": 17
+      },
+      {
+        "label": "Mochi’s Island",
+        "slug": "mochis-island",
+        "poster": {
+          "sm": "assets/img/str1/samples/game-5-40x60.jpg",
+          "md": "assets/img/str1/samples/game-5-170x220.jpg"
+        },
+        "count": 12
+      },
+      {
+        "label": "Rony da Hedgehog",
+        "slug": "rony-da-hedgehog",
+        "poster": {
+          "sm": "assets/img/str1/samples/game-6-40x60.jpg",
+          "md": "assets/img/str1/samples/game-6-170x220.jpg"
+        },
+        "count": 9
+      },
+      {
+        "label": "Zodiac Goddess",
+        "slug": "zodiac-goddess",
+        "poster": {
+          "sm": "assets/img/str1/samples/game-7-40x60.jpg",
+          "md": "assets/img/str1/samples/game-7-170x220.jpg"
+        },
+        "count": 7
+      }
+    ],
+    "streams": [
+      {
+        "title": "[XW] Shadow DLC Gameplay",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-1-270x160.jpg"
+        },
+        "meta": {
+          "duration": "32:25",
+          "game_id": 2,
+          "game_label": "Xenowatch",
+          "game_poster": "assets/img/str1/samples/game-1-40x60.jpg",
+          "date": "2 hours ago"
+        }
+      },
+      {
+        "title": "I Play the Witch Hunters Story in this weekend",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-2-270x160.jpg"
+        },
+        "meta": {
+          "duration": "28:17",
+          "game_id": 3,
+          "game_label": "Witch Hunters",
+          "game_poster": "assets/img/str1/samples/game-2-40x60.jpg",
+          "date": "February 3rd, 2023"
+        }
+      },
+      {
+        "title": "Ram Goddess Gameplay",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-3-270x160.jpg"
+        },
+        "meta": {
+          "duration": "44:39",
+          "game_id": 7,
+          "game_label": "Zodiac Goddess",
+          "game_poster": "assets/img/str1/samples/game-3-40x60.jpg",
+          "date": "January 26th, 2023"
+        }
+      },
+      {
+        "title": "First Play: Zodiac Goddess",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-4-270x160.jpg"
+        },
+        "meta": {
+          "duration": "01:16:28",
+          "game_id": 7,
+          "game_label": "Zodiac Goddess",
+          "game_poster": "assets/img/str1/samples/game-3-40x60.jpg",
+          "date": "December 17th, 2022"
+        }
+      },
+      {
+        "title": "Rony’s EggRing Quest",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-5-270x160.jpg"
+        },
+        "meta": {
+          "duration": "44:26",
+          "game_id": 6,
+          "game_label": "Rony da Hedgehog",
+          "game_poster": "assets/img/str1/samples/game-4-40x60.jpg",
+          "date": "December 14th, 2022"
+        }
+      },
+      {
+        "title": "Robo Bross Level Maker",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-6-270x160.jpg"
+        },
+        "meta": {
+          "duration": "25:28",
+          "game_id": 4,
+          "game_label": "Super Robo Bross II",
+          "game_poster": "assets/img/str1/samples/game-5-40x60.jpg",
+          "date": "December 9th, 2022"
+        }
+      },
+      {
+        "title": "Athena Goddess Gameplay",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-7-270x160.jpg"
+        },
+        "meta": {
+          "duration": "09:19",
+          "game_id": 7,
+          "game_label": "Zodiac Goddess",
+          "game_poster": "assets/img/str1/samples/game-3-40x60.jpg",
+          "date": "October 28th, 2022"
+        }
+      },
+      {
+        "title": "2 New Levels on Mochi’s Island Extension",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-8-270x160.jpg"
+        },
+        "meta": {
+          "duration": "02:36:19",
+          "game_id": 5,
+          "game_label": "Mochi’s Island",
+          "game_poster": "assets/img/str1/samples/game-6-40x60.jpg",
+          "date": "October 22nd, 2022"
+        }
+      },
+      {
+        "title": "Hare Goddess Gameplay",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-9-270x160.jpg"
+        },
+        "meta": {
+          "duration": "58:32",
+          "game_id": 7,
+          "game_label": "Zodiac Goddess",
+          "game_poster": "assets/img/str1/samples/game-3-40x60.jpg",
+          "date": "October 20th, 2022"
+        }
+      },
+      {
+        "title": "1 Hour of Capture the Flag ",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-10-270x160.jpg"
+        },
+        "meta": {
+          "duration": "01:04:33",
+          "game_id": 1,
+          "game_label": "a-Rex Legends",
+          "game_poster": "assets/img/str1/samples/game-7-40x60.jpg",
+          "date": "October 16th, 2022"
+        }
+      },
+      {
+        "title": "Witch Paragliding Minigame",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-11-270x160.jpg"
+        },
+        "meta": {
+          "duration": "08:12",
+          "game_id": 3,
+          "game_label": "Witch Hunters",
+          "game_poster": "assets/img/str1/samples/game-2-40x60.jpg",
+          "date": "August 30th, 2022"
+        }
+      },
+      {
+        "title": "Exploring The Orc Witch Cave",
+        "url": "https://player.twitch.tv/?video=1703307874&parent=valkivid.dan-fisher.dev",
+        "thumb": {
+          "md": "assets/img/str1/samples/video-12-270x160.jpg"
+        },
+        "meta": {
+          "duration": "17:22",
+          "game_id": 3,
+          "game_label": "Witch Hunters",
+          "game_poster": "assets/img/str1/samples/game-2-40x60.jpg",
+          "date": "August 27th, 2022"
+        }
+      }
+    ]
+  },
+  "shop": {
+    "currency": "$",
+    "cart": {
+      "products": [
+        {
+          "id": "product-1",
+          "img": {
+            "xs": "assets/img/str1/samples/product-1-50x50.jpg",
+            "sm": "assets/img/str1/samples/product-1-60x60.jpg"
+          },
+          "title": "Witch Hunters Art Print",
+          "url": "_str1-single-product",
+          "quantity": 1,
+          "rating": 5,
+          "single-price": "$36.00",
+          "price": "$36.00"
+        },
+        {
+          "id": "product-2",
+          "img": {
+            "xs": "assets/img/str1/samples/product-6-50x50.jpg",
+            "sm": "assets/img/str1/samples/product-6-60x60.jpg"
+          },
+          "title": "Mochi’s Island Art Print",
+          "url": "_str1-single-product",
+          "quantity": 1,
+          "rating": 5,
+          "single-price": "$28.00",
+          "price": "$28.00"
+        }
+      ],
+      "cart-total": "$64.00",
+      "calculation": [
+        {
+          "label": "Shipping",
+          "value": "$5.00"
+        },
+        {
+          "label": "Discount",
+          "value": "-$10.00"
+        }
+      ],
+      "order-total": "$59.00",
+      "payment-methods": [
+        {
+          "label": "PayPal",
+          "value": "paypal",
+          "is-checked": true,
+          "desc": "Pay easily using your Paypal account, with no additional fees!"
+        },
+        {
+          "label": "Check Payments",
+          "value": "check-payments",
+          "desc": "Please send a check to Store Name, Store Street, Store Town, Store State / County, Store Postcode."
+        },
+        {
+          "label": "Direct Bank Transfer",
+          "value": "bank-transfer",
+          "desc": "Make your payment directly into our bank account. Please use your Order ID as the payment reference. "
+        },
+        {
+          "label": "Cash on Delivery",
+          "value": "cash-on-delivery",
+          "desc": "Pay with cash upon delivery."
+        }
+      ]
+    },
+    "categories": [
+      {
+        "label": "All Merchandise",
+        "slug": "all",
+        "is-active": true
+      },
+      {
+        "label": "Framed Prints",
+        "slug": "framed-prints"
+      },
+      {
+        "label": "Coffee Mugs",
+        "slug": "coffee-mugs"
+      },
+      {
+        "label": "Clothing",
+        "slug": "clothing"
+      },
+      {
+        "label": "Pins/Buttons",
+        "slug": "pins-buttons"
+      }
+    ],
+    "products": [
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-1-270x340.jpg"
+        },
+        "title": "Witch Hunters Art Print",
+        "url": "_str1-single-product",
+        "rating": 5,
+        "price": {
+          "current": "36.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-2-270x340.jpg"
+        },
+        "title": "a-Rex Legends Art Print",
+        "url": "_str1-single-product",
+        "rating": 3,
+        "price": {
+          "current": "32.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-3-270x340.jpg"
+        },
+        "title": "Bunny School Art Print",
+        "url": "_str1-single-product",
+        "rating": 4,
+        "price": {
+          "current": "36.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-4-270x340.jpg"
+        },
+        "title": "Orc Witch Cave Art Print",
+        "url": "_str1-single-product",
+        "rating": 4,
+        "price": {
+          "current": "34.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-5-270x340.jpg"
+        },
+        "title": "Zodiac Goddess Art Print",
+        "url": "_str1-single-product",
+        "rating": 4,
+        "price": {
+          "current": "28.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-6-270x340.jpg"
+        },
+        "title": "Mochi’s Island Art Print",
+        "url": "_str1-single-product",
+        "rating": 5,
+        "price": {
+          "current": "28.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-7-270x340.jpg"
+        },
+        "title": "Neko MaGiX Ennamel Mug",
+        "url": "_str1-single-product",
+        "rating": 3,
+        "price": {
+          "prev": "24.00",
+          "current": "18.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-8-270x340.jpg"
+        },
+        "title": "Neko MaGiX Black Mug",
+        "url": "_str1-single-product",
+        "rating": 5,
+        "price": {
+          "current": "24.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-9-270x340.jpg"
+        },
+        "title": "Neko MaGiX Black T-Shirt",
+        "url": "_str1-single-product",
+        "rating": 4,
+        "price": {
+          "current": "26.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-10-270x340.jpg"
+        },
+        "title": "Neko MaGiX Purple T-Shirt",
+        "url": "_str1-single-product",
+        "rating": 5,
+        "price": {
+          "current": "28.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-11-270x340.jpg"
+        },
+        "title": "Zodiac Goddess Pin Button",
+        "url": "_str1-single-product",
+        "rating": 4,
+        "price": {
+          "current": "2.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str1/samples/product-12-270x340.jpg"
+        },
+        "title": "Sailor Star Pin Button",
+        "url": "_str1-single-product",
+        "rating": 3,
+        "price": {
+          "current": "2.00"
+        }
+      }
+    ],
+    "pagination": [
+      {
+        "label": "1",
+        "link": "#",
+        "active": true
+      },
+      {
+        "label": "2",
+        "link": "#"
+      },
+      {
+        "label": "3",
+        "link": "#"
+      },
+      {
+        "label": "4",
+        "link": "#"
+      }
+    ],
+    "product": {
+      "gallery": [
+        {
+          "full": "assets/img/str1/samples/product-1-500x630-1.jpg",
+          "thumb": "assets/img/str1/samples/product-1-98x98-1.jpg"
+        },
+        {
+          "full": "assets/img/str1/samples/product-1-500x630-2.jpg",
+          "thumb": "assets/img/str1/samples/product-1-98x98-2.jpg"
+        },
+        {
+          "full": "assets/img/str1/samples/product-1-500x630-3.jpg",
+          "thumb": "assets/img/str1/samples/product-1-98x98-3.jpg"
+        },
+        {
+          "full": "assets/img/str1/samples/product-1-500x630-4.jpg",
+          "thumb": "assets/img/str1/samples/product-1-98x98-4.jpg"
+        },
+        {
+          "full": "assets/img/str1/samples/product-1-500x630-1.jpg",
+          "thumb": "assets/img/str1/samples/product-1-98x98-1.jpg"
+        },
+        {
+          "full": "assets/img/str1/samples/product-1-500x630-2.jpg",
+          "thumb": "assets/img/str1/samples/product-1-98x98-2.jpg"
+        }
+      ],
+      "title": "Witch Hunters Art Print",
+      "rating": 5,
+      "price": "36.00",
+      "excerpt": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium deru voluptatum deleniti atque corrupti quos dolores et quas molestias.",
+      "sizes": [
+        {
+          "option": "sm",
+          "label": "18x26 Inches"
+        },
+        {
+          "option": "md",
+          "label": "24x32 Inches"
+        },
+        {
+          "option": "lg",
+          "label": "36x52 Inches"
+        }
+      ],
+      "colors": [
+        {
+          "option": "carbon-black",
+          "label": "Carbon Black"
+        },
+        {
+          "option": "pure-white",
+          "label": "Pure White"
+        }
+      ],
+      "reviews": [
+        {
+          "title": "Incredible Quality Print!",
+          "rating": 5,
+          "user": {
+            "name": "Marine Valentine",
+            "date": "September 4th, 2022"
+          },
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+        },
+        {
+          "title": "Beautiful Art Style! Kudos to the Artist!",
+          "rating": 5,
+          "user": {
+            "name": "Peter Morales",
+            "date": "August 26th, 2022"
+          },
+          "comment": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.  "
+        }
+      ]
+    }
+  },
+  "twitter-feed": [
+    {
+      "author": {
+        "thumb": "assets/img/str1/samples/twitter-avatar-60x60.jpg",
+        "name": "NekoMaGiX",
+        "nickname": "@NekoMGX"
+      },
+      "content": "Remember that this Friday at 9:00PM PCT I’ll be live streaming with <a href=\"#\">@gamehuntress</a> playing the new story mode DLC of Witch Hunters!",
+      "date": "26 minutes ago"
+    },
+    {
+      "author": {
+        "thumb": "assets/img/str1/samples/twitter-avatar-60x60.jpg",
+        "name": "NekoMaGiX",
+        "nickname": "@NekoMGX"
+      },
+      "content": "YEAH! Finally I got my Witch Hunters Deluxe Pack! Keep an eye out for the upcoming unboxing video! <a href=\"#\">#unboxing</a> <a href=\"#\">#witchhunters</a> <a href=\"#\">#deluxe</a>",
+      "date": "14 hours ago"
+    },
+    {
+      "author": {
+        "thumb": "assets/img/str1/samples/twitter-avatar-60x60.jpg",
+        "name": "NekoMaGiX",
+        "nickname": "@NekoMGX"
+      },
+      "content": "I’ll be having a Mochi’s Island speedrun for <a href=\"#\">@purplecross</a> charity! Hope to see you all there! If you wanna donate here’s the link: <a href=\"#\">bitlyx.com/chRty</a>",
+      "date": "4 days ago"
+    }
+  ],
+  "footer": {
+    "nav": [
+      {
+        "label": "Home",
+        "url": "index"
+      },
+      {
+        "label": "Sponsors",
+        "url": "sponsors"
+      },
+      {
+        "label": "Contact",
+        "url": "contact"
+      },
+      {
+        "label": "Streams",
+        "url": "streams"
+      },
+      {
+        "label": "About",
+        "url": "about"
+      },
+      {
+        "label": "Shop",
+        "url": "shop-grid-3"
+      },
+      {
+        "label": "Blog",
+        "url": "blog"
+      },
+      {
+        "label": "Events",
+        "url": "events"
+      }
+    ]
+  },
+  "sponsors": [
+    {
+      "title": "Dark Warrior",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "lg": "assets/img/str1/sponsor-1-lg.png",
+        "md": "assets/img/str1/sponsor-1-md.png",
+        "sm": "assets/img/str1/sponsor-1-sm.png",
+        "lg-dark": "assets/img/str1/sponsor-1-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.darkwarrior.com"
+      }
+    },
+    {
+      "title": "Daek Gear Shop",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "lg": "assets/img/str1/sponsor-2-lg.png",
+        "md": "assets/img/str1/sponsor-2-md.png",
+        "sm": "assets/img/str1/sponsor-2-sm.png",
+        "lg-dark": "assets/img/str1/sponsor-2-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.daekgearshop.com"
+      }
+    },
+    {
+      "title": "Burn Game Studios",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "lg": "assets/img/str1/sponsor-3-lg.png",
+        "md": "assets/img/str1/sponsor-3-md.png",
+        "sm": "assets/img/str1/sponsor-3-sm.png",
+        "lg-dark": "assets/img/str1/sponsor-3-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.burngamestudios.com"
+      }
+    },
+    {
+      "title": "Panther",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "lg": "assets/img/str1/sponsor-4-lg.png",
+        "md": "assets/img/str1/sponsor-4-md.png",
+        "sm": "assets/img/str1/sponsor-4-sm.png",
+        "lg-dark": "assets/img/str1/sponsor-4-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.bethepanther.com"
+      }
+    },
+    {
+      "title": "Knight Game Team",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "lg": "assets/img/str1/sponsor-5-lg.png",
+        "md": "assets/img/str1/sponsor-5-md.png",
+        "sm": "assets/img/str1/sponsor-5-sm.png",
+        "lg-dark": "assets/img/str1/sponsor-5-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.knightgameteam.com"
+      }
+    },
+    {
+      "title": "EagleWave",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "lg": "assets/img/str1/sponsor-6-lg.png",
+        "md": "assets/img/str1/sponsor-6-md.png",
+        "sm": "assets/img/str1/sponsor-6-sm.png",
+        "lg-dark": "assets/img/str1/sponsor-6-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.eaglewave.com"
+      }
+    }
+  ],
+  "contact-info": [
+    {
+      "icon": "joystick",
+      "title": "General Inquiries",
+      "label": "inquiries@nmagix.com",
+      "value": "mailto:inquiries@nmagix.com"
+    },
+    {
+      "icon": "award",
+      "title": "Be my sponsor!",
+      "label": "sponsors@nmagix.com",
+      "value": "mailto:sponsors@nmagix.com"
+    },
+    {
+      "icon": "mailbox",
+      "title": "My mailbox",
+      "label": "2002 Brooklyn Ave, Suite 666<br>10001, NY USA"
+    }
+  ],
+  "social": [
+    {
+      "label": "Twitch",
+      "desc": "Follow Us",
+      "url": "https://twitch.tv/",
+      "icon": "twitch"
+    },
+    {
+      "label": "Twitter",
+      "desc": "Follow Us",
+      "url": "https://twitter.com/danfisher_dev",
+      "icon": "twitter"
+    },
+    {
+      "label": "Facebook",
+      "desc": "Like Us",
+      "url": "https://www.facebook.com/danfisher.dev/",
+      "icon": "facebook"
+    },
+    {
+      "label": "Instagram",
+      "desc": "Follow Us",
+      "url": "http://instagram.com/dan.fisher.dev/",
+      "icon": "instagram"
+    },
+    {
+      "label": "Discord",
+      "desc": "Follow Us",
+      "url": "https://discord.com",
+      "icon": "discord"
+    },
+    {
+      "label": "Patreon",
+      "desc": "Support Us",
+      "url": "https://patreon.com",
+      "icon": "patreon"
+    }
+  ]
+}

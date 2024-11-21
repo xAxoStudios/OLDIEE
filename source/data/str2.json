@@ -1,0 +1,704 @@
+{
+  "twitch": {
+    "user": "danfisher_dev"
+  },
+  "header": {
+    "nav-1": [
+      {
+        "title": "Home",
+        "url": "_str2-index"
+      },
+      {
+        "title": "Stream",
+        "url": "_str2-stream"
+      },
+      {
+        "title": "Affiliates",
+        "url": "_str2-affiliates"
+      }
+    ],
+    "nav-2": [
+      {
+        "title": "Shop",
+        "url": "_str2-shop",
+        "subitems": [
+          {
+            "title": "Shop Page",
+            "url": "_str2-shop"
+          },
+          {
+            "title": "Single Product",
+            "url": "_str2-single-product"
+          },
+          {
+            "title": "Cart",
+            "url": "_str2-cart"
+          },
+          {
+            "title": "Checkout",
+            "url": "_str2-checkout"
+          },
+          {
+            "title": "Login/Register",
+            "id": "login-register",
+            "is-modal": true
+          },
+          {
+            "title": "Account",
+            "url": "_str2-account"
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "url": "_str2-contact"
+      },
+      {
+        "title": "Donate",
+        "url": "#"
+      }
+    ]
+  },
+  "account": [
+    {
+      "title": "Personal Info",
+      "url": "_str2-account-info"
+    },
+    {
+      "title": "Billing Details",
+      "url": "_str2-account-billing"
+    },
+    {
+      "title": "Shipping Details",
+      "url": "_str2-account-shipping"
+    },
+    {
+      "title": "Orders",
+      "url": "_str2-account-orders"
+    },
+    {
+      "title": "Logout",
+      "url": "#"
+    }
+  ],
+  "schedule": [
+    {
+      "label": "Mondays",
+      "time": "10:00",
+      "format": "PM",
+      "zone": "Eastern DT"
+    },
+    {
+      "label": "Tuesdays"
+    },
+    {
+      "label": "Wednesdays",
+      "time": "9:00",
+      "format": "PM",
+      "zone": "Eastern DT"
+    },
+    {
+      "label": "Thursdays",
+      "time": "10:00",
+      "format": "PM",
+      "zone": "Eastern DT"
+    },
+    {
+      "label": "Fridays",
+      "time": "9:00",
+      "format": "PM",
+      "zone": "Eastern DT"
+    },
+    {
+      "label": "Saturdays",
+      "time": "9:30",
+      "format": "PM",
+      "zone": "Eastern DT"
+    },
+    {
+      "label": "Sundays"
+    }
+  ],
+  "affiliates": {
+    "faq": [
+      {
+        "title": "So, what’s an affiliate?",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "active": true
+      },
+      {
+        "title": "Does it cost me something?",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "title": "Do I get any benefits?",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "title": "I want in! Can I be an affiliate?",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      }
+    ],
+    "products": [
+      {
+        "title": "330-Fuel Energy Drinks",
+        "subtitle": "Use code \"MAGIX\" for 20% off your order",
+        "img": "assets/img/str2/samples/affiliate-product-1.jpg",
+        "rating": 5,
+        "link": "#",
+        "desc": "We tested this product and it is really incredible! Here you can paste a description of the product or even a testimonial or review from you."
+      },
+      {
+        "title": "Personal Box Subscription",
+        "subtitle": "Use code \"UNBX\" for $5 off your order",
+        "img": "assets/img/str2/samples/affiliate-product-2.jpg",
+        "rating": 5,
+        "link": "#",
+        "desc": "We tested this product and it is really incredible! Here you can paste a description of the product or even a testimonial or review from you."
+      }
+    ]
+  },
+  "shop": {
+    "currency": "$",
+    "cart": {
+      "products": [
+        {
+          "id": "product-1",
+          "img": {
+            "xs": "assets/img/str2/samples/product-1-60x74.jpg",
+            "sm": "assets/img/str2/samples/product-1-70x90.jpg"
+          },
+          "title": "Witch Hunters Art Print",
+          "url": "_str2-single-product",
+          "quantity": 2,
+          "rating": 5,
+          "single-price": "$36.00",
+          "price": "$72.00"
+        },
+        {
+          "id": "product-7",
+          "img": {
+            "xs": "assets/img/str2/samples/product-7-60x74.jpg",
+            "sm": "assets/img/str2/samples/product-7-70x90.jpg"
+          },
+          "title": "Orc Witch Cave Art Print",
+          "url": "_str2-single-product",
+          "quantity": 2,
+          "rating": 4,
+          "single-price": "$34.00",
+          "price": "$68.00"
+        }
+      ],
+      "cart-total": "$140.00",
+      "calculation": [
+        {
+          "label": "Shipping",
+          "value": "$5.00"
+        },
+        {
+          "label": "Promo Code",
+          "value": "-$10.00"
+        }
+      ],
+      "order-total": "$135.00",
+      "payment-methods": [
+        {
+          "label": "PayPal",
+          "value": "paypal",
+          "is-checked": true,
+          "desc": "Pay easily using your Paypal account, with no additional fees!"
+        },
+        {
+          "label": "Check Payments",
+          "value": "check-payments",
+          "desc": "Please send a check to Store Name, Store Street, Store Town, Store State / County, Store Postcode."
+        },
+        {
+          "label": "Direct Bank Transfer",
+          "value": "bank-transfer",
+          "desc": "Make your payment directly into our bank account. Please use your Order ID as the payment reference. "
+        },
+        {
+          "label": "Cash on Delivery",
+          "value": "cash-on-delivery",
+          "desc": "Pay with cash upon delivery."
+        }
+      ]
+    },
+    "categories": [
+      {
+        "label": "All",
+        "slug": "all",
+        "is-active": true
+      },
+      {
+        "label": "Framed Prints",
+        "slug": "framed-prints"
+      },
+      {
+        "label": "Coffee Mugs",
+        "slug": "coffee-mugs"
+      },
+      {
+        "label": "Clothing",
+        "slug": "clothing"
+      },
+      {
+        "label": "Pins/Buttons",
+        "slug": "pins-buttons"
+      }
+    ],
+    "products": [
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-1-370x470.jpg"
+        },
+        "title": "Witch Hunters Art Print",
+        "url": "_str2-single-product",
+        "rating": 5,
+        "price": {
+          "current": "36.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-2-370x470.jpg"
+        },
+        "title": "a-Rex Legends Art Print",
+        "url": "_str2-single-product",
+        "rating": 3,
+        "price": {
+          "current": "32.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-3-370x470.jpg"
+        },
+        "title": "Neko MaGiX Black Mug",
+        "url": "_str2-single-product",
+        "rating": 4,
+        "price": {
+          "current": "24.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-4-370x470.jpg"
+        },
+        "title": "Witch Hunters Art Print",
+        "url": "_str2-single-product",
+        "rating": 3,
+        "price": {
+          "current": "36.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-5-370x470.jpg"
+        },
+        "title": "Neko MaGiX Purple T-Shirt",
+        "url": "_str2-single-product",
+        "rating": 5,
+        "price": {
+          "current": "28.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-6-370x470.jpg"
+        },
+        "title": "Bunny School Art Print",
+        "url": "_str2-single-product",
+        "rating": 4,
+        "price": {
+          "current": "36.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-7-370x470.jpg"
+        },
+        "title": "Orc Witch Cave Art Print",
+        "url": "_str2-single-product",
+        "rating": 4,
+        "price": {
+          "prev": "34.00",
+          "current": "21.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-8-370x470.jpg"
+        },
+        "title": "Mochi's Island Art Print",
+        "url": "_str2-single-product",
+        "rating": 5,
+        "price": {
+          "current": "28.00"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/str2/samples/product-9-370x470.jpg"
+        },
+        "title": "Neko MaGiX Black T-Shirt",
+        "url": "_str2-single-product",
+        "rating": 4,
+        "price": {
+          "current": "26.00"
+        }
+      }
+    ],
+    "pagination": [
+      {
+        "label": "1",
+        "link": "#",
+        "active": true
+      },
+      {
+        "label": "2",
+        "link": "#"
+      },
+      {
+        "label": "3",
+        "link": "#"
+      },
+      {
+        "label": "4",
+        "link": "#"
+      }
+    ],
+    "product": {
+      "gallery": [
+        {
+          "full": "assets/img/str2/samples/product-1-500x620-1.jpg",
+          "thumb": "assets/img/str2/samples/product-1-80x80-1.jpg"
+        },
+        {
+          "full": "assets/img/str2/samples/product-1-500x620-2.jpg",
+          "thumb": "assets/img/str2/samples/product-1-80x80-2.jpg"
+        },
+        {
+          "full": "assets/img/str2/samples/product-1-500x620-3.jpg",
+          "thumb": "assets/img/str2/samples/product-1-80x80-3.jpg"
+        },
+        {
+          "full": "assets/img/str2/samples/product-1-500x620-4.jpg",
+          "thumb": "assets/img/str2/samples/product-1-80x80-4.jpg"
+        }
+      ],
+      "title": "Witch Hunters Art Print",
+      "rating": 5,
+      "price": "36.00",
+      "excerpt": "Check out this amazing art print depicting one of the most recognizable characters of the Witch Hunter MMO. Grab yours today!",
+      "sizes": [
+        {
+          "option": "sm",
+          "label": "18x26 Inches"
+        },
+        {
+          "option": "md",
+          "label": "24x32 Inches"
+        },
+        {
+          "option": "lg",
+          "label": "36x52 Inches"
+        }
+      ],
+      "colors": [
+        {
+          "option": "carbon-black",
+          "label": "Carbon Black"
+        },
+        {
+          "option": "pure-white",
+          "label": "Pure White"
+        }
+      ],
+      "reviews": [
+        {
+          "title": "Incredible Quality Print!",
+          "rating": 5,
+          "user": {
+            "name": "Tony Parker",
+            "date": "6 minutes ago",
+            "avatar": "assets/img/str2/samples/user-2-80x80.jpg"
+          },
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua en derum enim."
+        },
+        {
+          "title": "Beautiful Art Style! Kudos to the Artist!",
+          "rating": 5,
+          "user": {
+            "name": "Peter Morales",
+            "date": "24 minutes ago",
+            "avatar": "assets/img/str2/samples/user-4-80x80.jpg"
+          },
+          "comment": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium."
+        }
+      ]
+    }
+  },
+  "social": [
+    {
+      "label": "Facebook",
+      "desc": "Like Us",
+      "url": "https://www.facebook.com/danfisher.dev/",
+      "icon": "facebook"
+    },
+    {
+      "label": "Twitter",
+      "desc": "Follow Us",
+      "url": "https://twitter.com/danfisher_dev",
+      "icon": "twitter"
+    },
+    {
+      "label": "Instagram",
+      "desc": "Follow Us",
+      "url": "https://instagram.com/dan.fisher.dev/",
+      "icon": "instagram"
+    },
+    {
+      "label": "Twitch",
+      "desc": "Follow Us",
+      "url": "https://twitch.tv/",
+      "icon": "twitch"
+    },
+    {
+      "label": "Discord",
+      "desc": "Follow Us",
+      "url": "https://discord.com",
+      "icon": "discord"
+    },
+    {
+      "label": "Patreon",
+      "desc": "Support Us",
+      "url": "https://patreon.com",
+      "icon": "patreon"
+    }
+  ],
+  "contact-info": [
+    {
+      "title": "Affiliates Inquiries",
+      "label": "affiliates<span>@</span>magix.com",
+      "value": "mailto:affiliates@magix.com"
+    },
+    {
+      "title": "Fanmail Address",
+      "label": "Fake Street 1234<br><span>New York</span>, NY<br>10001"
+    }
+  ],
+  "sponsors": [
+    {
+      "title": "Dark Warrior",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "sm": "assets/img/str2/sponsor-1-sm.png",
+        "sm-dark": "assets/img/str2/sponsor-1-sm-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.darkwarrior.com"
+      }
+    },
+    {
+      "title": "Daek Gear Shop",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "sm": "assets/img/str2/sponsor-2-sm.png",
+        "sm-dark": "assets/img/str2/sponsor-2-sm-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.daekgearshop.com"
+      }
+    },
+    {
+      "title": "Burn Game Studios",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "sm": "assets/img/str2/sponsor-3-sm.png",
+        "sm-dark": "assets/img/str2/sponsor-3-sm-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.burngamestudios.com"
+      }
+    },
+    {
+      "title": "Panther",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "sm": "assets/img/str2/sponsor-4-sm.png",
+        "sm-dark": "assets/img/str2/sponsor-4-sm-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.bethepanther.com"
+      }
+    },
+    {
+      "title": "Knight Game Team",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "sm": "assets/img/str2/sponsor-5-sm.png",
+        "sm-dark": "assets/img/str2/sponsor-5-sm-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.knightgameteam.com"
+      }
+    },
+    {
+      "title": "EagleWave",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "sm": "assets/img/str2/sponsor-6-sm.png",
+        "sm-dark": "assets/img/str2/sponsor-6-sm-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.eaglewave.com"
+      }
+    }
+  ],
+  "gear": [
+    {
+      "title": "Raptor RM Anywhere",
+      "subtitle": "Raxor",
+      "img": "assets/img/str2/samples/gear-1-170x170.jpg",
+      "icon": "gamer-mouse",
+      "link": "#"
+    },
+    {
+      "title": "Soundmaster X5",
+      "subtitle": "Sorny",
+      "img": "assets/img/str2/samples/gear-2-170x170.jpg",
+      "icon": "headset",
+      "link": "#"
+    },
+    {
+      "title": "Carbon Z81 RGB",
+      "subtitle": "Buccaneer",
+      "img": "assets/img/str2/samples/gear-3-170x170.jpg",
+      "icon": "keyboard",
+      "link": "#"
+    },
+    {
+      "title": "GLX 019 Full 4K",
+      "subtitle": "Sangsteen",
+      "img": "assets/img/str2/samples/gear-4-170x170.jpg",
+      "icon": "screen",
+      "link": "#"
+    },
+    {
+      "title": "DaBottoms Deluxe 5",
+      "subtitle": "Swordish",
+      "img": "assets/img/str2/samples/gear-5-170x170.jpg",
+      "icon": "gaming-chair",
+      "link": "#"
+    },
+    {
+      "title": "Iron Series GQ+",
+      "subtitle": "GQ Solutions",
+      "img": "assets/img/str2/samples/gear-6-170x170.jpg",
+      "icon": "mousepad-mouse",
+      "link": "#"
+    }
+  ],
+  "twitter": [
+    {
+      "author": {
+        "avatar": "assets/img/str2/samples/user-1-40x40.png",
+        "name": "NekoMaGiX",
+        "nickname": "@NekoMGX",
+        "url": "#"
+      },
+      "content": "Remember that this Friday at 9:00PM PCT I’ll be live streaming with <a href=\"#\">@gamehuntress</a> playing the new story mode DLC of Witch Hunters!",
+      "time": "26 minutes ago"
+    },
+    {
+      "author": {
+        "avatar": "assets/img/str2/samples/user-1-40x40.png",
+        "name": "NekoMaGiX",
+        "nickname": "@NekoMGX",
+        "url": "#"
+      },
+      "content": "I’m gonna be having a special stream tonight at 9pm PCT! <a href=\"#\">bitlyx.com/sTrm</a>",
+      "time": "3 hours ago"
+    },
+    {
+      "author": {
+        "avatar": "assets/img/str2/samples/user-1-40x40.png",
+        "name": "NekoMaGiX",
+        "nickname": "@NekoMGX",
+        "url": "#"
+      },
+      "content": "YEAH! Finally I got my Witch Hunters Deluxe Pack! Keep an eye out for the upcoming unboxing video! <p><img src=\"assets/img/str2/samples/twitter-img-1.jpg\" alt=\"\" /></p><a href=\"#\">#unboxing</a> <a href=\"#\">#witchhunters</a> <a href=\"#\">#deluxe</a>",
+      "time": "14 hours ago"
+    },
+    {
+      "author": {
+        "avatar": "assets/img/str2/samples/user-1-40x40.png",
+        "name": "NekoMaGiX",
+        "nickname": "@NekoMGX",
+        "url": "#"
+      },
+      "content": "I’ll be having a Mochi’s Island speedrun for charity! Hope to see you all there! <a href=\"#\">bitlyx.com/chRty</a>",
+      "time": "2 days ago"
+    },
+    {
+      "author": {
+        "avatar": "assets/img/str2/samples/user-1-40x40.png",
+        "name": "NekoMaGiX",
+        "nickname": "@NekoMGX",
+        "url": "#"
+      },
+      "content": "We’re a few days away from the charity livestream for <a href=\"#\">@purplecross</a> Join us for a great cause!",
+      "time": "5 days ago"
+    }
+  ],
+  "footer": {
+    "nav-primary": [
+      {
+        "label": "Home",
+        "url": "index"
+      },
+      {
+        "label": "Stream",
+        "url": "stream"
+      },
+      {
+        "label": "Affiliates",
+        "url": "affiliates"
+      },
+      {
+        "label": "Shop",
+        "url": "shop-grid-3"
+      },
+      {
+        "label": "Contact",
+        "url": "contact"
+      },
+      {
+        "label": "Donate",
+        "url": "#"
+      },
+      {
+        "label": "Subscribe",
+        "url": "#"
+      }
+    ],
+    "nav-secondary": [
+      {
+        "label": "Terms of Service",
+        "url": "#"
+      },
+      {
+        "label": "Privacy Policy",
+        "url": "#"
+      }
+    ]
+  }
+}

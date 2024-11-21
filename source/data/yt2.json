@@ -1,0 +1,1058 @@
+{
+  "header": {
+    "nav": [
+      {
+        "title": "Home",
+        "url": "_yt2-index"
+      },
+      {
+        "title": "Videos",
+        "url": "_yt2-videos-grid-4",
+        "subitems": [
+          {
+            "title": "Videos - 3 Cols",
+            "url": "_yt2-videos-grid-3"
+          },
+          {
+            "title": "Videos - 4 Cols",
+            "url": "_yt2-videos-grid-4"
+          }
+        ]
+      },
+      {
+        "title": "Affiliates",
+        "url": "_yt2-affiliates"
+      },
+      {
+        "title": "Shop",
+        "url": "_yt2-shop-grid-3",
+        "subitems": [
+          {
+            "title": "Shop V1",
+            "url": "_yt2-shop-grid-3"
+          },
+          {
+            "title": "Shop V2",
+            "url": "_yt2-shop-grid-4"
+          },
+          {
+            "title": "Single Product",
+            "url": "_yt2-single-product"
+          },
+          {
+            "title": "Cart",
+            "url": "_yt2-cart"
+          },
+          {
+            "title": "Checkout",
+            "url": "_yt2-checkout"
+          },
+          {
+            "title": "Login",
+            "id": "login",
+            "is-modal": true
+          },
+          {
+            "title": "Register",
+            "id": "register",
+            "is-modal": true
+          },
+          {
+            "title": "Account",
+            "url": "_yt2-account"
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "url": "_yt2-contact"
+      },
+      {
+        "title": "Subscribe!",
+        "url": "#"
+      }
+    ],
+    "social": [
+      {
+        "label": "Twitter",
+        "url": "#",
+        "icon": "twitter"
+      },
+      {
+        "label": "Instagram",
+        "url": "#",
+        "icon": "instagram"
+      },
+      {
+        "label": "Twitch",
+        "url": "#",
+        "icon": "twitch"
+      },
+      {
+        "label": "YouTube",
+        "url": "#",
+        "icon": "youtube"
+      }
+    ]
+  },
+  "channel-info": [
+    {
+      "img": "assets/img/yt2/samples/info-slide-1.png",
+      "title": "Gaming<br>Unboxing",
+      "heading": {
+        "title": "Exclusive Gamer Products!",
+        "subtitle": "New Products!"
+      }
+    },
+    {
+      "img": "assets/img/yt2/samples/info-slide-2.png",
+      "title": "Toys<br>Unboxing",
+      "heading": {
+        "title": "Amazing Unboxing Videos!",
+        "subtitle": "New Videos!"
+      }
+    },
+    {
+      "img": "assets/img/yt2/samples/info-slide-3.png",
+      "title": "Tech<br>Unboxing",
+      "heading": {
+        "title": "Tech & Gadgets News!",
+        "subtitle": "New Articles!"
+      }
+    }
+  ],
+  "services": [
+    {
+      "icon": "book",
+      "title": "Educating<br> the Consumers",
+      "desc": "Duis aute irure dolor in reprehenderit in uptate velit esse cillum dolore eu fugiat pariatur excepteur sint occaecat."
+    },
+    {
+      "icon": "piggy",
+      "title": "Make you<br> Save Money",
+      "desc": "Duis aute irure dolor in reprehenderit in uptate velit esse cillum dolore eu fugiat pariatur excepteur sint occaecat."
+    },
+    {
+      "icon": "review-ballon",
+      "title": "Honest Item<br> Reviews",
+      "desc": "Duis aute irure dolor in reprehenderit in uptate velit esse cillum dolore eu fugiat pariatur excepteur sint occaecat."
+    }
+  ],
+  "sponsors": [
+    {
+      "title": "Dark Warrior",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "lg": "assets/img/yt2/sponsor-1-lg.png",
+        "md": "assets/img/yt2/sponsor-1-md.png",
+        "sm": "assets/img/yt2/sponsor-1-sm.png",
+        "lg-dark": "assets/img/yt2/sponsor-1-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.darkwarrior.com"
+      }
+    },
+    {
+      "title": "Daek Gear Shop",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "lg": "assets/img/yt2/sponsor-2-lg.png",
+        "md": "assets/img/yt2/sponsor-2-md.png",
+        "sm": "assets/img/yt2/sponsor-2-sm.png",
+        "lg-dark": "assets/img/yt2/sponsor-2-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.daekgearshop.com"
+      }
+    },
+    {
+      "title": "Burn Game Studios",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "lg": "assets/img/yt2/sponsor-3-lg.png",
+        "md": "assets/img/yt2/sponsor-3-md.png",
+        "sm": "assets/img/yt2/sponsor-3-sm.png",
+        "lg-dark": "assets/img/yt2/sponsor-3-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.burngamestudios.com"
+      }
+    },
+    {
+      "title": "Panther",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "lg": "assets/img/yt2/sponsor-4-lg.png",
+        "md": "assets/img/yt2/sponsor-4-md.png",
+        "sm": "assets/img/yt2/sponsor-4-sm.png",
+        "lg-dark": "assets/img/yt2/sponsor-4-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.bethepanther.com"
+      }
+    },
+    {
+      "title": "Knight Game Team",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": {
+        "lg": "assets/img/yt2/sponsor-5-lg.png",
+        "md": "assets/img/yt2/sponsor-5-md.png",
+        "sm": "assets/img/yt2/sponsor-5-sm.png",
+        "lg-dark": "assets/img/yt2/sponsor-5-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.knightgameteam.com"
+      }
+    },
+    {
+      "title": "EagleWave",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.",
+      "img": {
+        "lg": "assets/img/yt2/sponsor-6-lg.png",
+        "md": "assets/img/yt2/sponsor-6-md.png",
+        "sm": "assets/img/yt2/sponsor-6-sm.png",
+        "lg-dark": "assets/img/yt2/sponsor-6-lg-dark.png"
+      },
+      "link": {
+        "url": "#",
+        "label": "www.eaglewave.com"
+      }
+    }
+  ],
+  "videos": {
+    "categories": [
+      {
+        "label": "Newest",
+        "slug": "newest",
+        "is-active": true
+      },
+      {
+        "label": "Oldest",
+        "slug": "oldest"
+      },
+      {
+        "label": "Popular",
+        "slug": "popular"
+      },
+      {
+        "label": "Most Liked",
+        "slug": "most-liked"
+      },
+      {
+        "label": "Gaming",
+        "slug": "gaming"
+      },
+      {
+        "label": "Technology",
+        "slug": "technology"
+      },
+      {
+        "label": "Toys",
+        "slug": "toys"
+      }
+    ],
+    "layout": [
+      {
+        "slug": "_yt2-videos-grid-3",
+        "icon": "grid"
+      },
+      {
+        "slug": "_yt2-videos-grid-4",
+        "icon": "grid-sm"
+      }
+    ],
+    "feed": [
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Top 10 Best Places in Japan to get Deluxe Edition Boxes!",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-1-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-1-370x208.jpg"
+        },
+        "meta": {
+          "views": "734K",
+          "date": "6 hours ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Ranking the Best Sunglasses Bundles for this Summer!",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-2-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-2-370x208.jpg"
+        },
+        "meta": {
+          "views": "204K",
+          "date": "7 hours ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "We Unbox the “Power Computer Bundle” for Gaming",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-3-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-3-370x208.jpg"
+        },
+        "meta": {
+          "views": "190K",
+          "date": "13 hours ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "This are the Best Gadgets to Take when you go Camping!",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-4-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-4-370x208.jpg"
+        },
+        "meta": {
+          "views": "362K",
+          "date": "1 day ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Unboxing the Adventures and Travel Gadgets Pack",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-5-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-5-370x208.jpg"
+        },
+        "meta": {
+          "views": "425K",
+          "date": "2 days ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Exclusive Preview of the New Powerstation Joystick!",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-6-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-6-370x208.jpg"
+        },
+        "meta": {
+          "views": "1.2M",
+          "date": "5 days ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "The 5 Best Neon Gadgets and Widgets for your Desk",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-7-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-7-370x208.jpg"
+        },
+        "meta": {
+          "views": "270K",
+          "date": "4 weeks ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Check out the Witch Hunter’s Amazing Edition Statue",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-8-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-8-370x208.jpg"
+        },
+        "meta": {
+          "views": "680K",
+          "date": "19 hours ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "The New Pearly White Joystick Pack is a Piece of Art",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-9-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-9-370x208.jpg"
+        },
+        "meta": {
+          "views": "34K",
+          "date": "6 hours ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Mochi’s Island - Red Dasher Edition Preorder Unbox",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-10-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-10-370x208.jpg"
+        },
+        "meta": {
+          "views": "457K",
+          "date": "1 week ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Exclusive Unboxing of the Soccer International Pro 20 Gold Box",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-11-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-11-370x208.jpg"
+        },
+        "meta": {
+          "views": "336K",
+          "date": "1 week ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "The Last of Them II Deluxe Version comes with a PVC Statue",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-12-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-12-370x208.jpg"
+        },
+        "meta": {
+          "views": "256K",
+          "date": "3 weeks ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "The Best Comic Toys, Figures and Statues of ToyCon",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-13-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-13-370x208.jpg"
+        },
+        "meta": {
+          "views": "994K",
+          "date": "3 weeks ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Neon Gadgets Unboxing Featuring Jenna Da Huntress",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-14-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-14-370x208.jpg"
+        },
+        "meta": {
+          "views": "427K views",
+          "date": "4 weeks ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "The Witch and the Orc II has an Incredible Pack Filled with Goods!",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-15-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-15-370x208.jpg"
+        },
+        "meta": {
+          "views": "241K",
+          "date": "2 months ago"
+        }
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XE0fU9PCrWE",
+        "title": "Unboxing the Cheapest Laptops for Photography and Design",
+        "thumb": {
+          "md": "assets/img/yt2/samples/video-16-270x152.jpg",
+          "lg": "assets/img/yt2/samples/video-16-270x152.jpg"
+        },
+        "meta": {
+          "views": "125K",
+          "date": "4 months ago"
+        }
+      }
+    ]
+  },
+  "account": [
+    {
+      "title": "Personal Info",
+      "url": "_yt2-account-info"
+    },
+    {
+      "title": "Billing Details",
+      "url": "_yt2-account-billing"
+    },
+    {
+      "title": "Shipping Details",
+      "url": "_yt2-account-shipping"
+    },
+    {
+      "title": "Orders",
+      "url": "_yt2-account-orders"
+    },
+    {
+      "title": "Logout",
+      "url": "#"
+    }
+  ],
+  "shop": {
+    "currency": "$",
+    "cart": {
+      "products": [
+        {
+          "id": "product-1",
+          "img": {
+            "xs": "assets/img/yt2/samples/product-1-50x50.jpg",
+            "sm": "assets/img/yt2/samples/product-1-60x60.jpg"
+          },
+          "title": "UNBX Crimson Hoodie",
+          "url": "_yt2-single-product",
+          "category": "Clothing",
+          "quantity": 1,
+          "rating": 5,
+          "single-price": "$26.00",
+          "price": "$26.00"
+        },
+        {
+          "id": "product-2",
+          "img": {
+            "xs": "assets/img/yt2/samples/product-2-50x50.jpg",
+            "sm": "assets/img/yt2/samples/product-2-60x60.jpg"
+          },
+          "title": "UNBX White Frame Print",
+          "url": "_yt2-single-product",
+          "category": "Merchandise",
+          "quantity": 1,
+          "rating": 3,
+          "single-price": "$35.00",
+          "price": "$35.00"
+        }
+      ],
+      "cart-total": "$61.00",
+      "calculation": [
+        {
+          "label": "Shipping",
+          "value": "$5.00"
+        },
+        {
+          "label": "Promo Code",
+          "value": "-$10.00"
+        }
+      ],
+      "order-total": "$56.00",
+      "payment-methods": [
+        {
+          "label": "PayPal",
+          "value": "paypal",
+          "is-checked": true,
+          "desc": "Pay easily using your Paypal account, with no additional fees!"
+        },
+        {
+          "label": "Check Payments",
+          "value": "check-payments",
+          "desc": "Please send a check to Store Name, Store Street, Store Town, Store State / County, Store Postcode."
+        },
+        {
+          "label": "Direct Bank Transfer",
+          "value": "bank-transfer",
+          "desc": "Make your payment directly into our bank account. Please use your Order ID as the payment reference. "
+        },
+        {
+          "label": "Cash on Delivery",
+          "value": "cash-on-delivery",
+          "desc": "Pay with cash upon delivery."
+        }
+      ]
+    },
+    "layout": [
+      {
+        "slug": "_yt2-shop-grid-3",
+        "icon": "grid"
+      },
+      {
+        "slug": "_yt2-shop-grid-4",
+        "icon": "grid-sm"
+      }
+    ],
+    "filter-options": [
+      {
+        "name": "filter-cats",
+        "options": [
+          {
+            "value": "all",
+            "label": "All Categories"
+          },
+          {
+            "value": "clothing",
+            "label": "Clothing"
+          },
+          {
+            "value": "coffee-mugs",
+            "label": "Coffee Mugs"
+          },
+          {
+            "value": "merchandise",
+            "label": "Merchandise"
+          }
+        ]
+      },
+      {
+        "name": "filter-price",
+        "options": [
+          {
+            "value": "price",
+            "label": "Price"
+          },
+          {
+            "value": "to-low",
+            "label": "From Low to High"
+          },
+          {
+            "value": "to-high",
+            "label": "From Hight to Low"
+          }
+        ]
+      },
+      {
+        "name": "order",
+        "options": [
+          {
+            "value": "desc",
+            "label": "Descending"
+          },
+          {
+            "value": "asc",
+            "label": "Ascending"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "label": "All Categories",
+        "slug": "all"
+      },
+      {
+        "label": "Clothing",
+        "slug": "clothing"
+      },
+      {
+        "label": "Coffee Mugs",
+        "slug": "coffee-mugs"
+      },
+      {
+        "label": "Merchandise",
+        "slug": "merchandise"
+      }
+    ],
+    "products": [
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-1-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-1-370x438.jpg"
+        },
+        "title": "UNBX Snapback Cap",
+        "url": "_yt2-single-product",
+        "cat_id": 1,
+        "rating": 4,
+        "price": {
+          "current": "12"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-2-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-2-370x438.jpg"
+        },
+        "title": "UNBX White Coffee Mug",
+        "url": "_yt2-single-product",
+        "cat_id": 2,
+        "rating": 4,
+        "price": {
+          "prev": "22",
+          "current": "16"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-3-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-3-370x438.jpg"
+        },
+        "title": "UNBX Crimson Hoodie",
+        "url": "_yt2-single-product",
+        "cat_id": 1,
+        "rating": 5,
+        "price": {
+          "current": "26"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-4-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-4-370x438.jpg"
+        },
+        "title": "UNBX White Frame Print",
+        "url": "_yt2-single-product",
+        "cat_id": 3,
+        "rating": 4,
+        "price": {
+          "current": "35"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-5-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-5-370x438.jpg"
+        },
+        "title": "UNBX Carbon Hoodie",
+        "url": "_yt2-single-product",
+        "cat_id": 1,
+        "rating": 5,
+        "price": {
+          "current": "32"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-6-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-6-370x438.jpg"
+        },
+        "title": "UNBX Snapback Cap V2",
+        "url": "_yt2-single-product",
+        "cat_id": 1,
+        "rating": 5,
+        "price": {
+          "current": "10"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-7-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-7-370x438.jpg"
+        },
+        "title": "UNBX Black Frame Print",
+        "url": "_yt2-single-product",
+        "cat_id": 3,
+        "rating": 3,
+        "price": {
+          "current": "35"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-8-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-8-370x438.jpg"
+        },
+        "title": "UNBX Crimson Pin",
+        "url": "_yt2-single-product",
+        "cat_id": 3,
+        "rating": 4,
+        "price": {
+          "current": "4"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-9-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-9-370x438.jpg"
+        },
+        "title": "UNBX Ennamel Cup",
+        "url": "_yt2-single-product",
+        "cat_id": 2,
+        "rating": 4,
+        "price": {
+          "current": "19"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-10-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-10-370x438.jpg"
+        },
+        "title": "UNBX Black Pin",
+        "url": "_yt2-single-product",
+        "cat_id": 3,
+        "rating": 5,
+        "price": {
+          "current": "4"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-11-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-11-370x438.jpg"
+        },
+        "title": "UNBX White Hoodie",
+        "url": "_yt2-single-product",
+        "cat_id": 1,
+        "rating": 4,
+        "price": {
+          "current": "26"
+        }
+      },
+      {
+        "img": {
+          "md": "assets/img/yt2/samples/product-12-270x320.jpg",
+          "lg": "assets/img/yt2/samples/product-12-370x438.jpg"
+        },
+        "title": "UNBX Black Coffee Mug",
+        "url": "_yt2-single-product",
+        "cat_id": 2,
+        "rating": 3,
+        "price": {
+          "current": "22"
+        }
+      }
+    ],
+    "product": {
+      "gallery": [
+        {
+          "full": "assets/img/yt2/samples/product-1-570x676-1.jpg",
+          "thumb": "assets/img/yt2/samples/product-1-98x98-1.jpg"
+        },
+        {
+          "full": "assets/img/yt2/samples/product-1-570x676-2.jpg",
+          "thumb": "assets/img/yt2/samples/product-1-98x98-2.jpg"
+        },
+        {
+          "full": "assets/img/yt2/samples/product-1-570x676-3.jpg",
+          "thumb": "assets/img/yt2/samples/product-1-98x98-3.jpg"
+        }
+      ],
+      "title": "UNBX Snapback Cap",
+      "cat_id": 1,
+      "rating": 4,
+      "price": "12",
+      "excerpt": "Duis aute irure dolor in reprehenderit velit esse cillum dolore eu fugiat nulla pariatur excepteur.",
+      "sizes": [
+        {
+          "option": "sm",
+          "label": "Small"
+        },
+        {
+          "option": "md",
+          "label": "Medium"
+        },
+        {
+          "option": "lg",
+          "label": "Large"
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Dimensions",
+          "value": "7 - 7 5/8 - Circumference (cm) 55.8 - 60.6"
+        },
+        {
+          "label": "Weight",
+          "value": "5.3 Ounces"
+        },
+        {
+          "label": "Materials",
+          "value": "Polyester and Natural Dye"
+        }
+      ],
+      "reviews": [
+        {
+          "title": "Awesome Quality!",
+          "rating": 4,
+          "user": {
+            "name": "Tony Parker",
+            "date": "6 minutes ago",
+            "avatar": "assets/img/yt2/samples/user-2-80x80.jpg"
+          },
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo incididunt ut labore et dolore."
+        }
+      ]
+    },
+    "pagination": [
+      {
+        "label": "01",
+        "link": "#",
+        "active": true
+      },
+      {
+        "label": "02",
+        "link": "#"
+      },
+      {
+        "label": "03",
+        "link": "#"
+      },
+      {
+        "label": "04",
+        "link": "#"
+      },
+      {
+        "label": "05",
+        "link": "#"
+      }
+    ]
+  },
+  "affiliates": {
+    "faq": [
+      {
+        "title": "So, what’s an affiliate?",
+        "desc": "Lorem ipsum dolor sit amet, sectetur adipiscing elit, sed do eiusmod mpor incididunt ut labore et dolore magna aliqua.",
+        "active": true
+      },
+      {
+        "title": "Does it cost me something?",
+        "desc": "Lorem ipsum dolor sit amet, sectetur adipiscing elit, sed do eiusmod mpor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "title": "Do I get any benefits?",
+        "desc": "Lorem ipsum dolor sit amet, sectetur adipiscing elit, sed do eiusmod mpor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "title": "Can I be an affiliate?",
+        "desc": "Lorem ipsum dolor sit amet, sectetur adipiscing elit, sed do eiusmod mpor incididunt ut labore et dolore magna aliqua."
+      }
+    ],
+    "products": [
+      {
+        "title": "330-Fuel Energy Drinks",
+        "subtitle": "Use code \"UNBX\" for 20% off your order",
+        "img": "assets/img/yt2/samples/affiliate-product-1.jpg",
+        "rating": 5,
+        "link": "#",
+        "desc": "We tested this product and it is really incredible! Here you can paste a description of the product or even a testimonial or review from you."
+      },
+      {
+        "title": "Personal Box Subscription",
+        "subtitle": "Use code \"UNBX\" for $5 off your order",
+        "img": "assets/img/yt2/samples/affiliate-product-2.jpg",
+        "rating": 5,
+        "link": "#",
+        "desc": "We tested this product and it is really incredible! Here you can paste a description of the product or even a testimonial or review from you."
+      }
+    ]
+  },
+  "contact": {
+    "info": [
+      {
+        "label": "General Inquiries",
+        "email": "general@UNBX.com",
+        "icon": "computer"
+      },
+      {
+        "label": "Business Inquiries",
+        "email": "business@UNBX.com",
+        "icon": "briefcase"
+      },
+      {
+        "label": "Our Address",
+        "address": "Fake Street 1234<br>New York, NY - 10001",
+        "icon": "fanmail"
+      }
+    ],
+    "social": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/danfisher.dev",
+        "icon": "facebook"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/danfisher_dev",
+        "icon": "twitter"
+      },
+      {
+        "label": "Instagram",
+        "url": "http://instagram.com/dan.fisher.dev/",
+        "icon": "instagram"
+      },
+      {
+        "label": "Youtube",
+        "url": "https://www.youtube.com/channel/UCbYqVTgLVezPsFZAA_QsvFw",
+        "icon": "youtube"
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "label": "Home",
+        "url": "_yt2-index"
+      },
+      {
+        "label": "Shop",
+        "url": "_yt2-shop-grid-3"
+      },
+      {
+        "label": "Videos",
+        "url": "_yt2-videos-grid-4"
+      },
+      {
+        "label": "Contact",
+        "url": "_yt2-contact"
+      },
+      {
+        "label": "Affiliates",
+        "url": "_yt2-affiliates"
+      },
+      {
+        "label": "Subscribe",
+        "url": "#"
+      }
+    ],
+    "social": [
+      {
+        "label": "Facebook",
+        "url": "#",
+        "icon": "facebook"
+      },
+      {
+        "label": "Twitter",
+        "url": "#",
+        "icon": "twitter"
+      },
+      {
+        "label": "Instagram",
+        "url": "#",
+        "icon": "instagram"
+      },
+      {
+        "label": "Twitch",
+        "url": "#",
+        "icon": "twitch"
+      },
+      {
+        "label": "YouTube",
+        "url": "#",
+        "icon": "youtube"
+      },
+      {
+        "label": "Discord",
+        "url": "#",
+        "icon": "discord"
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "Facebook",
+      "desc": "Like Us",
+      "url": "https://www.facebook.com/danfisher.dev/",
+      "icon": "facebook"
+    },
+    {
+      "label": "Twitter",
+      "desc": "Follow Us",
+      "url": "https://twitter.com/danfisher_dev",
+      "icon": "twitter"
+    },
+    {
+      "label": "Instagram",
+      "desc": "Follow Us",
+      "url": "http://instagram.com/dan.fisher.dev/",
+      "icon": "instagram"
+    },
+    {
+      "label": "Twitch",
+      "desc": "Follow Us",
+      "url": "https://twitch.tv/",
+      "icon": "twitch"
+    },
+    {
+      "label": "Youtube",
+      "desc": "Follow Us",
+      "url": "https://www.youtube.com/@danfisher-dev",
+      "icon": "youtube"
+    },
+    {
+      "label": "Discord",
+      "desc": "Follow Us",
+      "url": "https://discord.com",
+      "icon": "discord"
+    }
+  ]
+}
